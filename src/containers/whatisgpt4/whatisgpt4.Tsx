@@ -1,4 +1,3 @@
-import React from 'react'
 import "./whatisgpt4.css"
 
 const WhatisGPT4 = () => {
