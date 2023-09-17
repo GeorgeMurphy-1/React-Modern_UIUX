@@ -1,0 +1,26 @@
+.gpt4__features {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.gpt4__features-heading {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+
+    text-align: left;
+    margin-right: 0rem;
+}
+
+.gpt4__features-heading h1 {
+    color: #FFF;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: 40px; /* 132.353% */
+min-width: 200px;
+}
