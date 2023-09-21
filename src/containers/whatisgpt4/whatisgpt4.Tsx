@@ -1,4 +1,4 @@
-import { Feature } from "../../components/main"
+import { Feature } from "../../components"
 import "./whatisgpt4.css"
 
 const WhatisGPT4 = () => {

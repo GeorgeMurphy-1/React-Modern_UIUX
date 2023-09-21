@@ -1,5 +1,5 @@
 import {Footer, Blog, Possibility, WhatisGPT4, Header, Features} from "./containers/main";
-import { CTA, Brand, Navbar} from "./components/main"
+import { CTA, Brand, Navbar} from "./components"
 import "./App.css"
 
 const App = () => {

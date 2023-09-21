@@ -7,7 +7,7 @@ const Menu = () => {
    return (
     <>
       <p><a href="#home">Home</a></p>
-      <p><a href="#wgpt4">What is ChatGPT4</a></p>
+      <p><a href="#whatgpt4">What is ChatGPT4</a></p>
       <p><a href="#possibility">OpenAI</a></p>
       <p><a href="#features">Case Studies</a></p>
       <p><a href="#blog">Library</a></p>

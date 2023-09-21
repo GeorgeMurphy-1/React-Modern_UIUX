@@ -1,4 +1,4 @@
-import { Feature } from "../../components/main"
+import { Feature } from "../../components"
 import "./features.css"
 
 
